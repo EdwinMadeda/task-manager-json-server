@@ -1,0 +1,163 @@
+{
+  "tasks": [
+    {
+      "id": 47,
+      "text": "Cook Breakfast",
+      "day": "2022-11-08T00:23",
+      "reminder": true,
+      "durationHrs": "1",
+      "durationMin": 0,
+      "priority": "1",
+      "subtasks": [
+        {
+          "text": "Fetch ice cold bear",
+          "day": "2023-01-09T07:25:37.948Z",
+          "reminder": false,
+          "durationHrs": 0,
+          "durationMin": 0,
+          "id": 2
+        },
+        {
+          "text": "Make donuts",
+          "day": "2023-01-09T07:21:22.518Z",
+          "reminder": false,
+          "durationHrs": 0,
+          "durationMin": 0,
+          "id": 1
+        }
+      ],
+      "preceedingTaskIDs": []
+    },
+    {
+      "id": 48,
+      "text": "Morning exercise ",
+      "day": "2022-12-24T03:00:39.422Z",
+      "reminder": true,
+      "durationHrs": 0,
+      "durationMin": 20,
+      "priority": "1",
+      "subtasks": [
+        {
+          "id": 4,
+          "text": "Hulla hoop",
+          "day": "2023-01-02T19:39:12.168Z",
+          "reminder": false,
+          "durationHrs": 0,
+          "durationMin": 0
+        },
+        {
+          "id": 2,
+          "text": "Frog jump",
+          "day": "2022-12-30T06:01:40.588Z",
+          "reminder": false,
+          "durationHrs": 0,
+          "durationMin": 0
+        },
+        {
+          "id": 1,
+          "text": "Hop step and jump",
+          "day": "2022-12-30T06:01:25.535Z",
+          "reminder": false,
+          "durationHrs": 0,
+          "durationMin": 0
+        },
+        {
+          "id": 5,
+          "text": "Bicycle kick",
+          "day": "2023-01-07T04:13:26.381Z",
+          "reminder": false,
+          "durationHrs": 0,
+          "durationMin": 0
+        },
+        {
+          "id": 3,
+          "text": "Duck jump",
+          "day": "2023-01-02T18:28:43.052Z",
+          "reminder": false,
+          "durationHrs": 0,
+          "durationMin": 0
+        }
+      ],
+      "preceedingTaskIDs": [
+        47,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Fetch exercise pants",
+      "day": "2023-01-18T23:12",
+      "reminder": false,
+      "durationHrs": 0,
+      "durationMin": 0,
+      "priority": null,
+      "subtasks": [],
+      "preceedingTaskIDs": []
+    },
+    {
+      "id": 4,
+      "text": "Washing the dishes",
+      "day": "2023-01-02T03:04:31.487Z",
+      "reminder": false,
+      "durationHrs": 0,
+      "durationMin": 0,
+      "priority": "3",
+      "subtasks": [],
+      "preceedingTaskIDs": []
+    },
+    {
+      "id": 5,
+      "text": "Go to work",
+      "day": "2023-01-04T01:03:20.433Z",
+      "reminder": false,
+      "durationHrs": 0,
+      "durationMin": 0,
+      "subtasks": [
+        {
+          "id": 1,
+          "text": "Visit the train station",
+          "day": "2023-01-04T01:04:50.141Z",
+          "reminder": false,
+          "durationHrs": 0,
+          "durationMin": 0,
+          "priority": null
+        }
+      ],
+      "preceedingTaskIDs": [
+        48
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Visit Auntie in Missouri",
+      "day": "2023-01-05T02:06:18.487Z",
+      "reminder": false,
+      "durationHrs": 0,
+      "durationMin": 0,
+      "subtasks": [
+        {
+          "id": 1,
+          "text": "Eat dinner there",
+          "day": "2023-01-05T10:59:40.745Z",
+          "reminder": false,
+          "durationHrs": 0,
+          "durationMin": 0
+        }
+      ],
+      "preceedingTaskIDs": []
+    },
+    {
+      "id": 7,
+      "text": "Reading a novel",
+      "day": "2023-01-07T14:24:07.839Z",
+      "reminder": false,
+      "durationHrs": 0,
+      "durationMin": 0,
+      "subtasks": [],
+      "preceedingTaskIDs": [
+        47
+      ]
+    }
+  ]
+}
